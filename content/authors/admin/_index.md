@@ -27,7 +27,7 @@ education:
     - course: B.S. in Human Development and Family Studies
       institution: Pennsylvania State University
       year: 2016
-email: eedga001@fiu.edy
+email: eedga001@fiu.edu
 superuser: true
 highlight_name: true
 ---
