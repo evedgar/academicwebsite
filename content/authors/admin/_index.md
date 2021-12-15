@@ -2,7 +2,8 @@
 title: Elizabeth V. Edgar
 role: Postdoctoral Research Associate
 bio: ""
-interests: []
+interests:
+  - Infantattentionandperception
 social:
   - icon: envelope
     icon_pack: fas
