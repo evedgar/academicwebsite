@@ -20,13 +20,13 @@ education:
   courses:
     - course: Ph.D. in Psychology
       institution: Florida International University
-      year: 2047
+      year: 2021
     - course: M.S. in Psychology
       institution: Florida International University
       year: 2019
     - course: B.S. in Human Development and Family Studies
       institution: Pennsylvania State University
-      year: 1993
+      year: 2016
 email: eedga001@fiu.edy
 superuser: true
 highlight_name: true
